@@ -1,6 +1,6 @@
 Home
 ===================
-First test of spring equation with fbo
+Landing page experience for my portfolio
 
 Demo available [here](http://jojo.ninja/home/).
 
