@@ -1,0 +1,29 @@
+@import 'fonts';
+body {
+  position: absolute;
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: 'AlteHaasGrotesk-Regular';
+  color: #0f0f0f;
+
+  ::selection {
+  background: #E8E8E8;
+  }
+  ::-moz-selection {
+  background: #E8E8E8;
+  }
+}
+
+canvas {
+  position: absolute;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1;
+}
+.dg.ac {
+  z-index: 10!important;
+}
