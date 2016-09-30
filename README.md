@@ -1,7 +1,10 @@
-threejs-starter
+Home
 ===================
+First test of spring equation with fbo
 
-WIP
+Demo available [here](http://jojo.ninja/home/).
+
+![Alt text](http://jojo.ninja/share/home.png "home")
 
 
 
@@ -24,5 +27,3 @@ npm run build
 ```
 
 You are good to go !
-
-Fork of [threejs-starter-kit] (https://github.com/vdaguenet/threejs-starter-kit)
